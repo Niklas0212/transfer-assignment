@@ -1,1 +1,1 @@
-Transfer-assignment repo for the advanced Git course
+Transfer-assignment repository for the advanced Git course.
