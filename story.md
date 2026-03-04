@@ -1,3 +1,5 @@
 # The Version Control Wizard
 
 In a small village nestled between mountains, there lived a peculiar wizard named Git who had the power to control time—but only for documents and code. Unlike other wizards who cast spells with wands, Git used mysterious commands like "commit" and "branch" to create parallel timelines of reality. The villagers would come to him whenever they made mistakes in their work, and Git would simply wave his hand and restore their projects to any previous state they desired.
+
+One day, a young apprentice named Merge arrived at Git's tower, desperate for help. She had been working on an important spell scroll for weeks, but had accidentally erased half of it while trying to add new incantations. "Please, Master Git," she pleaded, "I have no backup of my work!" Git smiled knowingly and muttered his favorite incantation: "git log". Instantly, a glowing timeline appeared in the air, showing every change Merge had ever made to her scroll, each one carefully labeled with a message describing what she had done.
